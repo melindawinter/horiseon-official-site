@@ -72,10 +72,6 @@ nav a {
     margin-left: 20px;
 }
 
-.content img { 
-    max-height: 200px;
-}
-
 .content section {
     margin-bottom: 20px;
     padding: 50px;
@@ -83,6 +79,15 @@ nav a {
     font-family: 'Gill Sans', 'Gill Sans MT', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+}
+
+.content h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.content img { 
+    max-height: 200px;
 }
 
 .float-left {
@@ -93,11 +98,6 @@ nav a {
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-.content h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 /*Styling for the benefits sidebar*/
@@ -112,14 +112,16 @@ nav a {
     background-color: #2589bd;
 }
 
-.benefits div {
-    margin-bottom: 32px;
+.benefits section {
+    margin-bottom: 35px;
     color: #ffffff;
 }
 
 .benefits h3 {
     margin-bottom: 10px;
     text-align: center;
+    font-weight: bold;
+    font-size: 1.17em
 }
 
 .benefits img {
@@ -143,4 +145,5 @@ footer {
 
 .red {
     color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
