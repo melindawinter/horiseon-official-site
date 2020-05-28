@@ -10,6 +10,6 @@ This project is intended to be viewed by people who are searching for a company 
 
 ## Credits
 
-I would like to thank all of my collegues for keeping up a lively discussion during this project. Specifically, I want to thank Andrew Yen, Amalia Hay, Cyrus Jose, and Ian Martinez for participating with me in a workshopping session that greatly clarified my thought process. Thank you also to Thor Nolan, my tutor.
+I would like to thank all of my colleagues for keeping up a lively discussion during this project. Specifically, I want to thank Andrew Yen, Amalia Hay, Cyrus Jose, and Ian Martinez for participating with me in a workshopping session that greatly clarified my thought process. Thank you also to Thor Nolan, my tutor.
 
 I read and watched a variety of articles on W3 and Codecademy for inspiration and guidance. Here is a link to a Codecademy video I found particularly helpful: <https://youtu.be/uxmB8MlO3m8.>
